@@ -71,15 +71,15 @@ Click any image below to open and watch the corresponding video directly on YouT
 
 | ▶ Click to Watch Gameplay on YouTube |
 | :---: |
-| [![Click to watch gameplay on YouTube](docs/showcase/videos/thumbnails-gameplay.jpg)](https://youtu.be/8pnLyG1y3eg?si=y4ii5Xe3gaEdt5PB) |
+| [![Click to watch gameplay on YouTube](docs/showcase/videos/thumbnails-gameplay.jpg)](https://www.youtube.com/watch?v=8pnLyG1y3eg) |
 
 | ▶ Click to Watch Enemy Animation on YouTube |
 | :---: |
-| [![Click to watch the enemy animation showcase on YouTube](docs/showcase/videos/thumbnails-enemy-animation.jpg)](https://youtu.be/HD_Hlhd1I18?si=Q_S0KYEwUl-RQ9ML) |
+| [![Click to watch the enemy animation showcase on YouTube](docs/showcase/videos/thumbnails-enemy-animation.jpg)](https://www.youtube.com/watch?v=HD_Hlhd1I18) |
 
 | ▶ Click to Watch Player Animation on YouTube |
 | :---: |
-| [![Click to watch the player animation showcase on YouTube](docs/showcase/videos/thumbnails-player-animation.jpg)](https://youtu.be/BpKjPdxMfDM?si=jgCZa1rjhOcsStnv) |
+| [![Click to watch the player animation showcase on YouTube](docs/showcase/videos/thumbnails-player-animation.jpg)](https://www.youtube.com/watch?v=BpKjPdxMfDM) |
 
 ### Gameplay System Screenshots
 
