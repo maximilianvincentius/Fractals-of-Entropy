@@ -11,6 +11,7 @@
 | Item | Details |
 | --- | --- |
 | Creator and Developer | **Maximilian Vincentius** |
+| Development Period | December 2023 – August 2026 |
 | Platform | Android, landscape orientation |
 | Genre | Top-Down Survival Shooter |
 | Engine | Unity 6000.1.11f1 |
